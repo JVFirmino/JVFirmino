@@ -6,10 +6,10 @@
 
 ### 📖Resumo
 
-Me chamo João Victor, tenho 18 anos e atualmente atuo como QA Analyst na empresa Sistema Escudo. Amo programar, e meu dia a dia é dedicado ao trabalho como analista de qualidade. No entanto, meu grande sonho é me tornar um programador e estou determinado a seguir esse caminho em direção ao meu objetivo.
+Me chamo João Victor, atuo como Software Quality Analyst com sólida experiência em testes manuais e automatizados, atuando em uma plataforma de LMS. Lidero time de QA, sempre promovendo boas práticas de qualidade, documentação técnica, testes orientados por BDD e entregas com foco em performance e segurança. Tenho experiência com testes de API, UI e banco de dados, utilizando ferramentas como Playwright, Swagger, Postman, Insomnia e MySQL. Também colaborei diretamente com times de Produto e Desenvolvimento, participando ativamente de cerimônias ágeis (Scrum e Kanban), releases e deploys em AWS. Além disso, desenvolvi projetos próprios como um sistema completo de notificações automatizadas via e-mail com foco em LGPD, integrando PHP, JavaScript, MySQL, API do Imgur e automação com Cron Jobs.
 
 
-👩‍💻Sou QA Analyst;
+👩‍💻Software Quality Analyst Pleno;
 
 📚 Gosto de estudar e está a atualizado das novas tecnologias;
 
@@ -17,7 +17,7 @@ Me chamo João Victor, tenho 18 anos e atualmente atuo como QA Analyst na empres
 
 ⚽Gosto de assitir futebol;
 
-👨‍🏫 Estou estudando C# .NET.
+👨‍🏫 Software Developer.
 
 ![JVFirmino GitHub stats](https://github-readme-stats.vercel.app/api?username=JVFirmino&show_icons=true&theme=)
 
